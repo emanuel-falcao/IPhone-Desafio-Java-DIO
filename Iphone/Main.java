@@ -1,4 +1,7 @@
 package Iphone;
+// Classe de teste para mostrar o iPhone em ação 🚀
+
+// Emanuel testando tudo antes de entregar com confiança!
 
 public class Main {
     public static void main(String[] args) {
