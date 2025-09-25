@@ -42,8 +42,6 @@ Este projeto simula os principais papéis do iPhone utilizando conceitos de **Pr
 
 O diagrama abaixo representa as interfaces e a classe principal `IPhone`, que implementa todos os comportamentos:
 
-![Diagrama UML](Iphone/IPhoneDesafio.png)
-
 ---
 
 ## 🧩 Estrutura do Projeto
