@@ -36,13 +36,6 @@ Perfeito, Emanuel! Aqui está um modelo de README.md estiloso e completo para o 
 Este projeto simula os principais papéis do iPhone utilizando conceitos de **Programação Orientada a Objetos** e **Modelagem UML**. A proposta é representar o comportamento de um reprodutor musical, aparelho telefônico e navegador de internet, conforme apresentado no vídeo de lançamento do iPhone.
 
 ---
-
-## 📐 Diagrama UML
-
-O diagrama abaixo representa as interfaces e a classe principal `IPhone`, que implementa todos os comportamentos:
-
----
-
 ## 🧩 Estrutura do Projeto
 
 - `ReprodutorMusical.java`  
